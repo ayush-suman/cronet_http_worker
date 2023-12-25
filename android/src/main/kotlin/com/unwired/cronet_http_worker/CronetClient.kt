@@ -22,6 +22,7 @@ class CronetClient {
             val task = CronetProviderInstaller.installProvider(context)
             Tasks.await(task)
             cronetEngine = CronetEngine.Builder(context).enableQuic(true).build()
+            Log.d("Cronet", "Cronet initialised")
         }
     }
 

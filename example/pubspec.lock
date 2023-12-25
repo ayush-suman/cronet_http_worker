@@ -17,6 +17,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+  auth_manager:
+    dependency: transitive
+    description:
+      name: auth_manager
+      sha256: afc9611d773d7ab91a290a1346abc22b95e196e26a3f9e3742178730402aafed
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.3"
   boolean_selector:
     dependency: transitive
     description:
@@ -98,6 +106,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  http_parser:
+    dependency: transitive
+    description:
+      name: http_parser
+      sha256: "2aa08ce0341cc9b354a498388e30986515406668dbcc4f7c950c3e715496693b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.2"
+  http_worker:
+    dependency: transitive
+    description:
+      name: http_worker
+      sha256: c7e3d3f90d7767663d5ef9eb5d98659710d9bb2a1709916a6ea771eb9d71aba3
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.4"
   jni:
     dependency: transitive
     description:
@@ -146,6 +170,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
+  parser_interface:
+    dependency: transitive
+    description:
+      name: parser_interface
+      sha256: "393e33a5e696fdf9f419e7f92fbbea0d685f1a5892988246eca559a7a52766c7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   path:
     dependency: transitive
     description:
@@ -162,6 +194,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.6"
+  queue_manager:
+    dependency: transitive
+    description:
+      name: queue_manager
+      sha256: "4b9973af7836b7ff1791ef357b62d6704ea6e61b7e445f6a323ab4ea50aa6eef"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -183,6 +223,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.11.0"
+  store_manager:
+    dependency: transitive
+    description:
+      name: store_manager
+      sha256: c812ef1d7a51f3c933f7f00f5c7d8f58eabc0475be1247c0d504959af06fdb38
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   stream_channel:
     dependency: transitive
     description:
@@ -215,6 +263,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.0"
+  typed_data:
+    dependency: transitive
+    description:
+      name: typed_data
+      sha256: facc8d6582f16042dd49f2463ff1bd6e2c9ef9f3d5da3d9b087e244a7b564b3c
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.2"
+  unwired:
+    dependency: transitive
+    description:
+      name: unwired
+      sha256: "4b3adda62001d7370e0791bdc37e125caf1ae0fa77948b5fcda4f6b173c21e8d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.9.6"
   vector_math:
     dependency: transitive
     description:

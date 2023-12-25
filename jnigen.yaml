@@ -3,8 +3,7 @@ android_sdk_config:
   add_gradle_sources: true
   android_example: 'example/'
 
-summarizer:
-  backend: asm
+suspend_fun_to_async: true
 
 output:
   c:
@@ -20,6 +19,3 @@ source_path:
 classes:
   - 'android.content.Context'
   - 'com.unwired.cronet_http_worker.CronetClient'
-
-enable_experiment:
-  - 'interface_implementation'
